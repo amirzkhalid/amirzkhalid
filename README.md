@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, welcome to my GitHub 👋
 🔭 I’m currently working on: Data analytics projects and exploring real-world datasets
 🌱 I’m currently learning: Statistical modeling, Python for data analysis, and data visualization
 🤔 I’m looking for help with: Advanced statistical methods and machine learning techniques
