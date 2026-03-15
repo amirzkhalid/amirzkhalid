@@ -1,8 +1,8 @@
 ## Hi there 👋
-## 🔭 I’m currently working on: Data analytics projects and exploring real-world datasets
-## 🌱 I’m currently learning: Statistical modeling, Python for data analysis, and data visualization
-## 🤔 I’m looking for help with: Advanced statistical methods and machine learning techniques
-## 📫 How to reach me: LinkedIn
+🔭 I’m currently working on: Data analytics projects and exploring real-world datasets
+🌱 I’m currently learning: Statistical modeling, Python for data analysis, and data visualization
+🤔 I’m looking for help with: Advanced statistical methods and machine learning techniques
+📫 How to reach me: LinkedIn
 <!--
 **amirzkhalid/amirzkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
