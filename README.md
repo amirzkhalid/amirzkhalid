@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 🔭 I’m currently working on: Data analytics projects and exploring real-world datasets
 <!--
 **amirzkhalid/amirzkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
